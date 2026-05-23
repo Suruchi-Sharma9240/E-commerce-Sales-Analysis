@@ -5,16 +5,24 @@ This project focuses on analyzing an E-Commerce sales dataset using Excel to dis
 The analysis helps understand:
 
 1. Top selling products
+   
 2.Monthly sales trends
+
 3.Profit & loss patterns
+
 4.Customer purchasing behavior
+
 5.Region-wise performance
 
                      📊 Tools Used
 Microsoft Excel
+
 Pivot Tables
+
 Charts & Graphs
+
 Data Cleaning
+
 Dashboard Creation
 
             📂 Dataset Information
@@ -110,7 +118,7 @@ Answer: It indicates that the United States is the most important market for ove
 
 
 
-🚀 Project Outcome
+         🚀 Project Outcome
 This project helps businesses make data-driven decisions by identifying:
 High-performing products
 Loss-making areas
